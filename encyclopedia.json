@@ -86,7 +86,7 @@
 		"russian": "Иммиграция",
 		"ukrainian":"Імміграція",
 		"korean": "이주",
-		"chinese": "移民",
+		"chinese": "殖民",
 		"italian": "Immigrazione",
 	},
 	"helpMenuTitle_professions": {
@@ -212,7 +212,7 @@ Powodzenia w zaludnianiu Twojej kolonii!"
 如果你想要发展殖民地，你需要好好照顾你的殖民者。
 最重要的是，你需要确保储存的食物足够，特别是冬天即将到来的时候！ 告诉殖民者如何工作或分配职业使他们自行工作。 农民、工匠、士兵和学者，他们都为殖民地做出了自己的贡献。 安排学者研究新技术并解锁更先进的建筑、设备和技能。
 保障您的殖民者安全和健康，以维持团队的良好心情。 虎视眈眈的土著、使人衰弱的疾病和恶劣的天气只是你在发展道路上需要克服的一些挑战。 如果你让你的殖民者长时间暴饮暴食，他们可能会不听从你的指挥并去做他们想做的事情。
-祝你好运，在这个岛上定居！",
+祝你好运，在这个岛上安居乐业！",
 		"italian": "Benvenuto/a!
 
 Dovrai prenderti cura dei tuoi coloni se vuoi che il tuo avamposto cresca.
@@ -234,7 +234,7 @@ Buona fortuna a stabilirti su quest'isola!",
 		"ukrainian":"Ваші вчені досліджують нові технології, вивчаючи магічні кристали, розкидані по всьому вашому поселенню. Розішліть шахтарів збирати кристали і побудуйте стіл досліджень, щоб ваші вчені змогли почати вивчати кристали. Обов'язково виберіть технологію на панелі досліджень в правому верхньому куті.",
 		"polish": "Twoi uczeni odkrywają nowe technologie dzięki wykorzystaniu magicznych kryształów rozsianych dookoła Twojej koloni. Wyślij górników, by zebrali kryształy oraz zbuduj stanowisko badawcze by uczeni mogli zdobywać technologie dzięki analizie kryształów. Zaznacz następną technologię do odkrycia w górnym, prawym narożniku.",
 		"korean": "학자들은 정착지 주변에 흩어진 마법 크리스탈을 연구하여 새로운 기술을 가져올겁니다. 광부들을 보내 크리스탈을 수집하고, 연구대를 지어 학자들이 크리스탈을 분석하고 기술을 연구할 수 있도록 하세요. 화면 오른쪽 상단에 위치한 연구 패널에서 연구할 기술을 선택하는 것을 잊지 마세요.",
-		"chinese": "你们的学者通过研究散布在你们殖民地周围的魔法水晶，研究出新的技术。派矿工去收集一些，并建造一个书架，这样你的学者就可以阅读关于分析水晶的技术。确保在右上角的研究面板中选择下一个新技术。",
+		"chinese": "你们的学者通过研究散布在你们殖民地周围的魔法水晶，研究出新的技术。派矿工去收集一些，并建造一个书架，这样你的学者就可以阅读关于分析水晶的技术。在游戏界面右上角选择一个想要研究的技术以开始研究。",
 		"italian": "I tuoi eruditi inventano nuove tecnologie studiando i cristalli magici sparsi in tutta l'isola. Invia dei minatori per raccoglierne alcuni e costruisci un leggio in modo che i tuoi eruditi possano documentarsi sulle tecniche per analizzare i cristalli. Assicurati di selezionare la tecnologia da ricercare nel pannello di ricerca nell'angolo in alto a destra.",
 	},
 	"helpMenuText_foodProduction": {
@@ -317,7 +317,7 @@ Buona coltivazione!",
 		"ukrainian":"Продовольчі очікування",
 		"polish": "Oczekiwania żywieniowe",
 		"korean": "음식에 대한 기대",
-		"chinese": "食品期望",
+		"chinese": "食物要求",
 		"italian": "Aspettative alimentari",
 	},
 	"helpMenuText_foodProduction_expectations": {
@@ -359,7 +359,7 @@ Alcuni coloni hanno i loro piatti preferiti e ottengono un aumento dell'umore se
 		"russian": "Пищевые рационы",
 		"ukrainian":"Харчові раціони",
 		"korean": "식량 배급",
-		"chinese": "食物配给",
+		"chinese": "食物分配",
 		"italian": "Razioni di cibo",
 	},
 	"helpMenuText_foodProduction_rations": {
@@ -402,7 +402,7 @@ D'altra parte, se le tue riserve di cibo sono abbondanti, puoi aumentare le razi
 		"russian": "Нашествие жуков",
 		"ukrainian":"Нашестя жуків",
 		"korean": "병충해 발생",
-		"chinese": "虫害",
+		"chinese": "虫灾",
 		"italian": "Infestazione di insetti",
 	},
 	"helpMenuText_foodProduction_bugs": {
@@ -417,7 +417,7 @@ D'altra parte, se le tue riserve di cibo sono abbondanti, puoi aumentare le razi
 		"russian": "Каждый год страшные жуки представляют серьезную опасность для вашего урожая. Если обнаружено заражение насекомыми, ваши колонисты должны быстро удалить все пораженные растения, прежде чем заражение распространится. Вы можете потерять весь свой урожай в считанные секунды!",
 		"ukrainian":"Щороку страшні жуки представляють серйозну небезпеку для вашого врожаю. Якщо виявлено зараження комахами, ваші колоністи повинні швидко видалити всі уражені рослини, перш ніж зараження пошириться. Ви можете втратити весь свій урожай в лічені секунди!",
 		"korean": "매년, 무서운 벌레들이 당신의 수확에 심각한 위협을 가합니다. 병충해 발생이 확인되었다면, 개척자들이 감염이 퍼지기 전에 빠르게 감염된 식물을 제거해야 합니다. 한 순간에 모든 일이 물거품이 될 수도 있어요!",
-		"chinese": "每年，可怕的虫子都会给农作物收获带来严重破坏。如果发现虫害，您的殖民者需要快速移除所有受虫害的植物，防止蔓延。你可以在几秒钟内完成清除虫害工作！",
+		"chinese": "每年，可怕的虫子都会给农作物收获带来严重破坏。如果发现虫灾，您的殖民者需要快速移除所有受虫灾伤害的植物，防止蔓延。你可以在几秒钟内完成清除虫害工作！",
 		"italian": "Ogni anno, i temuti insetti rappresentano un grave pericolo per il tuo raccolto. Se viene rilevata un'infestazione di insetti, i tuoi coloni devono essere rapidi nel rimuovere tutte le piante interessate prima che si diffonda l'infestazione. Potresti perdere tutto il tuo raccolto in pochi secondi!",
 	},
 
@@ -444,7 +444,7 @@ Podstawowym środkiem zapobiegawczym jest dawanie tym biednym, małym ludzikom n
 		"korean": "열심히 일하는 개척자들에게는 많은 나쁜 일들이 벌어질 수 있습니다.
 가장 기초적인 처방은 불쌍한 작은 이들에게 쉴 시간을 주는겁니다. 얼마간 침대에 누워있으면 몸이 서서히 회복됩니다. 상태 패널(하트 아이콘)을 둘러보고 건강 상태에 대한 상세한 정보를 확인하세요.",		
 		"chinese": "辛勤工作的殖民者可能会遇到很多不好的事情。
-最基本的补救办法是给这些可怜的小家伙们一些时间休息。躺在床上让他们的身体慢慢恢复。查看状态面板(心脏图标)，查看关于健康状态的详细信息。",
+最基本的补救办法是给这些可怜的小家伙们一些时间休息。躺在床上让他们的身体慢慢恢复。点击状态面板(心脏图标)，查看关于健康状态的详细信息。",
 		"italian": "Ci sono molte cose brutte che possono accadere ai coloni che lavorano duramente.
 Il rimedio più semplice è consentire ai poveretti di riposare per un po' di tempo. Essere sdraiati su un letto garantirà ai loro corpi un po' di recupero dal malessere. Dai un'occhiata al pannello di stato (icona del cuore) per vedere i dettagli sul loro stato di salute.",
 	},
@@ -644,7 +644,7 @@ Na tym obrazie, oczekiwania kolonistów nie są spełnione, więc kolonia nie b�
 		"korean": "화톳불을 클릭하여 이주 상황에 대한 상세한 내용을 확인하세요. 
 이 이미지에서는 개척자들의 기대가 모드 만족되지 않아, 정착지가 성장하지 않을겁니다.",
 		"chinese": "点击您的营火获得详细的移民状况概述。
-在这图中，殖民者的期望没有得到满足，所以殖民地不会继续发展。",
+目前殖民者的期望没有得到满足，所以殖民地不会继续发展。",
 		"italian": "Clicca sul tuo falò per ottenere una panoramica dettagliata sullo stato dell'immigrazione.
 In questa immagine le aspettative dei coloni non sono soddisfatte, perciò la colonia non crescerà.",
 	},
@@ -672,7 +672,7 @@ Maar, iedereen in de kolonie is verantwoordelijk voor het bouwen van vloeren, mu
 Jednakże każdy w kolonii jest odpowiedzialny za tworzenie podłóg, ścian i mebli, bez znaczenia na ich zawód!",
 		"korean": "직업은 정착지의 반복적인 업무를 자동화하는 데 도움을 줄 수 있습니다. 캐릭터의 임무 패널(망치 아이콘)을 확인하고, 주민들에게 서로 다른 직업을 할당하세요. 주민들은 이제 직업에 관련된 일을 알아서 찾아 할 것입니다.
 여전히, 정착지의 모두에게는 바닥과 집, 가구를 지을 의무가 있습니다. 어떤 직업을 가졌든 상관없이요!",
-		"chinese": "专职人员可以帮助实现自动化重复工作。使用角色概述中的作业面板(锤子图标)为你的殖民者分配不同的职业。从现在开始，他们将自动完成与职业相关的任务。
+		"chinese": "分配职业可以实现殖民自动化重复工作。使用角色概述中的职业面板(锤子图标)为你的殖民者分配不同的职业。获得工作后他们将自动完成与职业相关的任务。
 然而，在殖民地的每个人都要负责建造地板、墙壁和家具，不管他们的职业任务是什么!",
 		"italian": "Le professioni possono aiutare ad automatizzare le attività ripetitive nella colonia. Usa il pannello del lavoro (icona a forma di martello) nella panoramica dei personaggi per assegnare professioni diverse ai tuoi abitanti. Una volta assegnato un lavoro, eseguiranno automaticamente le attività associate alla professione.
 Ricorda che nella colonia sono tutti responsabili della costruzione di pavimenti, pareti e mobili, indipendentemente dal loro incarico!",
@@ -998,7 +998,7 @@ Une fois le village un peu agrandi, ses habitants vont vouloir se faire de nouve
 		"spanish": "Nadie quiere sentirse solo en este mundo y eso es especialmente cierto para tus colonos. Hacer amigos y mantener las viejas amistades no solo es divertido, es una parte central de su bienestar.
 		
 Una vez que la aldea haya crecido un poco, sus habitantes van a querer hacer nuevos amigos. Haz que interactúen entre sí para fortalecer sus lazos.",
-"chinese": "没有人愿意在世界上感到孤独终老，您的殖民者尤其如此。结交朋友和维持友谊不仅很有趣，而且是他们幸福的核心部分。
+"chinese": "没有人愿意在世界上感到孤独终老，尤其是您的殖民者。结交朋友和维持友谊不仅很有趣，而且是他们幸福的核心部分。
 		
 孩子长大以后，将要结交新朋友。 让他们彼此互动，以加强他们的联系。",
 		"italian": "Nessuno vuole sentirsi solo al mondo e questo è particolarmente vero per gli abitanti del villaggio. Fare amicizia e mantenere vecchie amicizie non è solo divertente, ma è anche una parte fondamentale del loro benessere.
@@ -1081,10 +1081,10 @@ Si vous avez beaucoup de personnes qui veulent se faire de nouveaux amis, essaye
 Si tienes un montón de gente con ganas de hacer nuevos amigos, ¡trata de lanzar una fiesta!",
 "chinese": "人们可以通过几种不同的方式进行互动：
 
--谈话主要导致良好的对话和一些不良的对话。
+-谈话可能出现良好的对话或一些不良的对话。
 -笑话在建立社交关系方面非常有效，但是糟糕的笑话使每个听众都害怕，并感到难过。
--如果某人给别人留下了深刻的印象，那么每次积极的互动都会产生两倍的效果。
--侮辱总是会降低人际关系，而道歉只能弥补一点点。
+-如果某人给别人留下了深刻的印象，那么每次积极的互动都会产生双倍的效果。
+-侮辱会降低人际关系，不过道歉能弥补一点点。
 -每个人都喜欢谈论食物，但这会让他们立即感到饥饿。
 -虽然拥抱并不能直接改善彼此的关系，但可以使每个人都感觉更好-尽管拥抱仅适用于好友和朋友。
 
@@ -1140,7 +1140,7 @@ Pour que le village puisse accueillir de nouveaux membres, les attentes de tous 
 		"spanish": "Una vez que dos adultos han alcanzado una gran amistad, pueden besarse para convertir su relación en una romántica. Solo cuando hayan alcanzado el nivel máximo posible de relación romántica, estarán pensando en tener hijos.
 
 Para que la aldea pueda acomodar a nuevos miembros, todas las expectativas de los habitantes deberán estar cumplidas.",
-"chinese": "一旦两个大人建立了深厚的友谊，他们就可以亲吻以使他们的关系成为情人人。只有当他们达到最大可能的情人关系等级时，他们才会考虑生孩子。
+"chinese": "一旦两个大人建立了深厚的友谊，他们就可以亲吻以使他们的关系成为情人。只有当他们达到最大可能的情人关系等级时，他们才会考虑生孩子。
 
 为了使村庄能够容纳新成员，必须满足所有殖民者的期望。",
 		"italian": "Una volta che due adulti hanno raggiunto una grande amicizia, possono baciarsi per rendere il loro rapporto romantico. Solo quando raggiungono il massimo livello possibile della relazione romantica, penseranno di avere dei figli.

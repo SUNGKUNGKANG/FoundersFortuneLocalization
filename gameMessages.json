@@ -297,7 +297,7 @@
 		"russian": "Не хватает еды",
 		"ukrainian": "Бракує їжі",
 		"korean": "식량이 바닥을 보이고 있습니다",
-		"chinese": "食物吃完了",
+		"chinese": "食物快要吃完了",
 		"italian": "Il cibo sta per finire",
 		"polish": "Kończy się jedzenie"
 	},
@@ -313,7 +313,7 @@
 		"russian": "Еда закончилась",
 		"ukrainian": "Їжа закінчилася",
 		"korean": "남은 식량이 없습니다",
-		"chinese": "无食物库存",
+		"chinese": "没有吃的了",
 		"italian": "Non è rimasto più cibo",
 		"polish": "Jedzenie się skończyło!"
 	},
@@ -554,7 +554,7 @@
 		"russian": "Необходимы кристаллы для исследования",
 		"ukrainian": "",
 		"korean": "연구를 위해서 크리스탈이 필요합니다",
-		"chinese": "需要水晶用于研究",
+		"chinese": "需要用于研究的水晶",
 		"italian": "Hai bisogno di cristalli per la ricerca",
 		"polish": "Potrzeba kryształów do badań"
 	},
@@ -697,7 +697,7 @@
 		"portuguese": "Piratas estão chegando a qualquer momento ...",
 		"italian": "I pirati arriveranno da un momento all'altro...",
 		"korean": "해적이 곧 들이닥칠 것 같습니다...",
-		"chinese": "海盗随时都会来..."
+		"chinese": "海盗即将到来..."
 	},
 	"notificationTitle_PiratesHaveLanded": {
 		"english": "Pirates have landed!",
@@ -729,7 +729,7 @@
 		"russian": "Здесь нет пустой могилы",
 		"portuguese": "Não há sepultura vazia",
 		"italian": "Non ci sono tombe vuote",
-		"chinese": "没有空余的坟墓-TODO"
+		"chinese": "没有空余的坟墓"
 	},
 	"notificationTitle_ProfessionLevelUp": {
 		"english": "%firstName% is now a level %level% %profession%",
@@ -1253,7 +1253,7 @@
 		"russian": "%firstName% не был%surnameA% удовлетворен%surnameA% свой жизнью. Теперь %heShe% выпускает пар с помощью вандализма.",
 		"ukrainian": "%firstName% не бу%hesheEnd% задоволен%heshe_IY_A% своїм життям. Тепер  %heShe% випускає пар за допомогою вандалізму.",
 		"korean": "%firstName%의 생활은 최고의 생활이 아니었습니다. %heShe%는 화를 풀기 위해 기물들을 파손하기 시작했습니다.",
-		"chinese": "%firstName%的生活质量非常不好。现在%heShe%想破坏东西已发泄不满。",
+		"chinese": "%firstName%的生活质量非常不好。现在%heShe%想破坏东西以发泄不满。",
 		"italian": "La vita non è stata generosa con %firstName%. Adesso sta compiendo atti di vandalismo per sfogarsi un po'."
 	},
 	"messageTitle_BreakdownLazyDay": {
@@ -1749,7 +1749,7 @@
 		"russian": "Лечение не помогло\n%firstName% теперь инвалид",
 		"ukrainian": "Лікування не допомогло \n%firstName% тепер інвалід",
 		"korean": "치료가 엉망입니다\n%firstName%#{이} 장애를 가지게 되었습니다",
-		"chinese": "治疗失败了\n%firstName%现在残废了",
+		"chinese": "治疗失败了\n%firstName%现在落下病根了",
 		"italian": "Trattamento sbagliato\n%firstName% è %RimastoRimasta% disabile."
 	},
 	"messageText_LimpingBecauseOfBadSplintTreatment": {

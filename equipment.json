@@ -58,7 +58,7 @@
 		"russian": "Несмотря на то, что меч изготовлен из камня, он вполне острый и внушает страх.",
 		"ukrainian": "Незважаючи на те, що меч виготовлений з каменю, він цілком гострий і вселяє страх.",
 		"korean": "돌로 만들어졌지만, 날이 서 있어서 위험합니다.",
-		"chinese": "虽然是石头做的，剑刃锋利也是很危险的。",
+		"chinese": "虽然是石头做的，但锋利的剑刃也是很危险的。",
 		"italian": "Sebbene sia fatta di pietra, la lama è affilata e pericolosa.",
 	},
 	"equipmentName_swordIronTraderGuard": {
@@ -70,7 +70,7 @@
 		"russian": "Меч гильдии торговцев",
 		"italian": "Spada delle guardie dei mercanti",
 		"korean": "상인 길드의 칼",
-		"chinese": "商人守卫剑",
+		"chinese": "商人的侍卫剑",
 		"dutch": "Handelaar Bewaker's Zwaard",
 		"polish": "Miecz strażnika handlarza",
 		"turkish": "Tüccar Koruma Kılıcı",
@@ -152,7 +152,7 @@
 		"polish": "Wydobywa 50% więcej drewna z drzew. Lepsza taka, niż żadna.",
 		"turkish": "Ağaçlardan %50 daha fazla odun verimi alıyor. Hiç yoktan iyidir.",
 		"korean": "나무에서 50% 더 많은 목재를 얻을 수 있습니다. 없는 것보단 낫죠.",
-		"chinese": "砍伐树木能获取50%木材，总比没有好。",
+		"chinese": "砍伐树木能多获取50%木材，总比没有好。",
 		"italian": "Con questa puoi ricavare il 50% di legna in più dagli alberi. Meglio di niente.",
 	},
 	"equipmentName_axeStone": {
@@ -212,7 +212,7 @@
 		"polish": "Wydobywa 150% więcej drewna z drzew. Jesteś gotowy zbudować swoje drewinane imperium?",
 		"turkish": "Ağaçlardan %150 daha fazla odun verimi alıyor. Odundan bir imparatorluk kurmaya hazır mıyız?",
 		"korean": "나무에서 150% 많은 목재를 얻습니다. 목재로 제국을 건설할 준비가 되셨나요?",
-		"chinese": "从树木中获得150%的木材。你准备好用木头建立一个帝国了吗?",
+		"chinese": "砍伐树木时多获得150%的木材。准备好用木头建立一个帝国了吗?",
 		"italian": "Usarla ti farà ricavare il 150% in più di legna dagli alberi. Il tuo impero di legno potrà avere inizio.",
 	},
 
@@ -246,7 +246,7 @@
 		"polish": "Wydobywa 50% więcej materiałów z górnictwa. Ktoś powiedział, że kopanie nie jest zbyt zdrowe.",
 		"turkish": "Madencilikten %50 daha fazla kaynak alıyor. Birisi tekmelemenin o kadar da sağlıklı olmadığını söyledi.",
 		"korean": "채광에서 50% 많은 자원을 얻습니다. 발로 차는건 건강에 좋지 않다고 해요.",
-		"chinese": "采矿可以获得50%的资源。有人说踢腿不太健康。",
+		"chinese": "采矿可以多获得50%的资源。有人说踢腿不太健康。",
 		"italian": "Usandolo potrai estrarre il 50% in più di minerali. Secondo alcuni calciare non era la soluzione più salutare.",
 	},
 	"equipmentName_pickaxeStone": {
@@ -306,7 +306,7 @@
 		"polish": "Zwiększa wydobycie z górnictwa o 150%. Żaden kamyczek nie zostanie pominięty!",
 		"turkish": "Madencilikten %150 daha fazla kaynak alıyor. Dokunulmamış çakıl kalmayacak!",
 		"korean": "채광에서 150% 많은 자원을 얻습니다. 손댄 적 없는 돌덩이가 없네요!",
-		"chinese": "从采矿中获得150%的资源。没有一颗鹅卵石是完好无损的!",
+		"chinese": "从采矿中多获得150%的资源。没有一颗鹅卵石是完好无损的!",
 		"italian": "Usarlo ti farà estrarre il 150% in più di minerali. Nessun ciottolo rimarrà più intatto!",
 	},
 
@@ -559,7 +559,7 @@
 		"russian": "Броня торговца",
 		"korean": "상인 경호대의 갑옷",
 		"italian": "Armatura della Guardia dei Mercanti",
-		"chinese": "商人守卫护甲",
+		"chinese": "商人的侍卫护甲",
 		"polish": "Zbroja strażnika handlarza",
 		"turkish": "Tüccar Muhafız Zırhı",
 		
@@ -574,7 +574,7 @@
 		"korean": "상인 경호대의 표준 갑옷입니다. 움직임에 제한을 주지 않으면서도 꽤 잘 보호해줍니다.",
 		"dutch": "Het standaard pantser voor de handelaar bewaker. Zorgt voor veel bescherming terwijl het je niet vertraagt.",
 		"italian": "L'armatura ordinaria per i membri della Guardia dei Mercanti. Offre una protezione eccezionale senza limitare l'agilità.",
-		"chinese": "商人守卫的标准装甲。强大的防护又不会妨碍敏捷性。",
+		"chinese": "商人侍卫的标准装甲。拥有强大防护效果的同时又不会妨碍敏捷性。",
 		"polish": "Standardowa zbroja strażnika handlarza. Oferuje świetną ochronę bez ograniczania szybkości.",
 		"turkish": "Tüccar muhafızlar için standart zırh. Kişinin çevikliğini kısıtlamadan büyük bir koruma sağlar",
 	},
@@ -675,7 +675,7 @@
 		"polish": "Przeszywanica",
 		"turkish": "Pamuklu zırh",
 		"korean": "천갑옷",
-		"chinese": "软铠甲",
+		"chinese": "布甲",
 		"italian": "Gambesone",
 	},
 	"equipmentDescription_armorGambeson": {
@@ -710,7 +710,7 @@
 		"polish": "Ubranie ucznia rzemieślnika",
 		"turkish": "Çırak zanaatkar elbisesi",
 		"korean": "풋내기 수공업자의 옷",
-		"chinese": "工匠学徒衣服",
+		"chinese": "工匠学徒装",
 		"italian": "Vesti da apprendista fabbro",
 	},
 	"equipmentDescription_craftsmanGear0": {
@@ -740,7 +740,7 @@
 		"polish": "Ubranie rzemieślnika",
 		"turkish": "Usta Zanaatkar Giysileri",
 		"korean": "베테랑 수공업자의 옷",
-		"chinese": "工匠大师衣服",
+		"chinese": "工匠大师装",
 		"italian": "Vesti da mastro fabbro",
 	},
 	"equipmentDescription_craftsmanGear1": {
@@ -770,7 +770,7 @@
 		"polish": "Ubranie ucznia drwala",
 		"turkish": "Çırak ormancının giysileri",
 		"korean": "풋내기 나무꾼의 옷",
-		"chinese": "伐木工学徒衣服",
+		"chinese": "伐木工学徒装",
 		"italian": "Vesti da apprendista guardaboschi",
 	},
 	"equipmentDescription_foresterGear0": {
@@ -800,7 +800,7 @@
 		"polish": "Ubranie drwala",
 		"turkish": "Usta oduncu giysileri",
 		"korean": "베테랑 나무꾼의 옷",
-		"chinese": "伐木工大师衣服",
+		"chinese": "伐木工大师装",
 		"italian": "Vesti da mastro guardaboschi",
 	},
 	"equipmentDescription_foresterGear1": {
@@ -830,7 +830,7 @@
 		"polish": "Ubranie ucznia górnictwa",
 		"turkish": "Çırak madenci giysileri",
 		"korean": "풋내기 광부의 옷",
-		"chinese": "矿工学徒衣服",
+		"chinese": "矿工学徒装",
 		"italian": "Vesti da apprendista minatore",
 	},
 	"equipmentDescription_minerGear0": {
@@ -860,7 +860,7 @@
 		"polish": "Ubranie górnika",
 		"turkish": "Usta Madenci Giysileri",
 		"korean": "베테랑 광부의 옷",
-		"chinese": "矿工大师衣服",
+		"chinese": "矿工大师装",
 		"italian": "Vesti da mastro minatore",
 	},
 	"equipmentDescription_minerGear1": {
@@ -1012,7 +1012,7 @@
 		"polish": "Ubranie ucznia rolnictwa",
 		"turkish": "Çırak çiftçi giysileri",
 		"korean": "풋내기 농부의 옷",
-		"chinese": "农民学徒衣服",
+		"chinese": "农民学徒装",
 		"italian": "Vesti da apprendista contadino",
 	},
 	"equipmentDescription_farmerGear0": {
@@ -1043,7 +1043,7 @@
 		"russian": "Одежда опытного фермера",
 		"ukrainian": "Одяг Аккуратного Фермера",
 		"korean": "베테랑 농부의 옷",
-		"chinese": "农民大师衣服",
+		"chinese": "农民大师装",
 		"italian": "Vesti da mastro contadino",
 	},
 	"equipmentDescription_farmerGear1": {
@@ -1156,7 +1156,7 @@
 		"russian": "Костюм пиратов.",
 		"korean": "해적의 옷",
 		"turkish": "Korsan kıyafeti",
-		"chinese": "海盗衣服",
+		"chinese": "海盗装",
 		"polish": "Pirackie Ubranie",
 	},
 	"equipmentDescription_pirateSailorGear0": {
